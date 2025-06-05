@@ -69,6 +69,7 @@ If you find this repository useful in your work, please consider citing the foll
   publisher={IEEE}
 }
 ```
+官方代码：[ACSF-TMAE](https://github.com/Andrewchenxd/ACSF-TMAE)；
 
 ```bash
 @article{chen2025radiollm,
@@ -78,6 +79,6 @@ If you find this repository useful in your work, please consider citing the foll
   year={2025}
 }
 ```
-
+官方代码：[RadioLLM](https://github.com/SparkZu/RadioLLM)；
 
 
