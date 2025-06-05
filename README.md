@@ -51,30 +51,32 @@ samples_per_symbol=8 #RML16
 ### **Citation**
 If you find this repository useful in your work, please consider citing the following paper:
 ```bash
-@ARTICLE{10804099,
-  author={Chen, Shuai and Feng, Zhixi and Yang, Shuyuan and Ma, Yue and Liu, Jun and Qi, Zhuoyue},
-  journal={IEEE Transactions on Wireless Communications}, 
-  title={A Generative Self-supervised Framework for Cognitive Radio Leveraging Time-Frequency Features and Attention-based Fusion}, 
+@article{feng2024learning,
+  title={Learning temporal--spectral feature fusion representation for radio signal classification},
+  author={Feng, Zhixi and Chen, Shuai and Ma, Yue and Gao, Yachen and Yang, Shuyuan},
+  journal={IEEE Transactions on Industrial Informatics},
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Feature extraction;Time-frequency analysis;Data mining;Spectrogram;Transformers;Modulation;Radio communication;Noise reduction;Cognitive radio;Time-domain analysis;Generative framework;self-supervised learning (SSL);cognitive radio technology (CRT)},
-  doi={10.1109/TWC.2024.3513980}
+  publisher={IEEE}
 }
 ```
 
 ```bash
-@ARTICLE{10702346,
-  author={Feng, Zhixi and Chen, Shuai and Ma, Yue and Gao, Yachen and Yang, Shuyuan},
-  journal={IEEE Transactions on Industrial Informatics}, 
-  title={Learning Temporal–Spectral Feature Fusion Representation for Radio Signal Classification}, 
+@article{chen2024generative,
+  title={A Generative Self-supervised Framework for Cognitive Radio Leveraging Time-Frequency Features and Attention-based Fusion},
+  author={Chen, Shuai and Feng, Zhixi and Yang, Shuyuan and Ma, Yue and Liu, Jun and Qi, Zhuoyue},
+  journal={IEEE Transactions on Wireless Communications},
   year={2024},
-  volume={},
-  number={},
-  pages={1-10},
-  keywords={Feature extraction;Spectrogram;Wireless communication;Convolution;Wireless sensor networks;Kernel;Time-frequency analysis;Time-domain analysis;Robustness;Informatics;Feature fusion;radio signal classification (RSC);temporal–spectral feature representation},
-  doi={10.1109/TII.2024.3461777}}
+  publisher={IEEE}
+}
+```
+
+```bash
+@article{chen2025radiollm,
+  title={RadioLLM: Introducing Large Language Model into Cognitive Radio via Hybrid Prompt and Token Reprogrammings},
+  author={Chen, Shuai and Zu, Yong and Feng, Zhixi and Yang, Shuyuan and Li, Mengchang and Ma, Yue and Liu, Jun and Pan, Qiukai and Zhang, Xinlei and Sun, Changjun},
+  journal={arXiv preprint arXiv:2501.17888},
+  year={2025}
+}
 ```
 
 

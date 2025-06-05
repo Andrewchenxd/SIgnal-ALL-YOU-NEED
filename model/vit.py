@@ -240,7 +240,7 @@ class ViT(nn.Module):
             nn.Linear(dim, num_classes),
         )
 
-    def forward(self, img,y,z):
+    def forward(self, img):
         x = self.to_patch_embedding(img)
         b, n, _ = x.shape
 
@@ -276,5 +276,5 @@ if __name__ == '__main__':
             dropout = 0.2,
             emb_dropout = 0.2
         )
-    preds = model(img,img,img)
+    preds = model(img)
 
